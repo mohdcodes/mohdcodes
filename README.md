@@ -67,5 +67,5 @@ I'm learning in public. Notes on RAG, LLM inference and system design are coming
 ---
 
 <div align="center">
-<sub>Open to interesting AI engineering problems. Say hi at arbaazsid0786@gmail.com.</sub>
+<sub>Open to interesting AI engineering problems. Say hi at arbaazcode@gmail.com.</sub>
 </div>
