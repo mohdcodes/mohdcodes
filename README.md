@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohd Arbaaz Siddiqui 👋
 
-**AI Engineer at Techdome** · Hyderabad, India
+**AI Engineer** India
 
 I build LLM applications, RAG systems and voice agents, and the tooling that keeps them reliable in production.
 
