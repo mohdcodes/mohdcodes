@@ -7,7 +7,7 @@
 I build LLM applications, RAG systems and voice agents, and the tooling that keeps them reliable in production.
 
 [![Website](https://img.shields.io/badge/Website-mohdcodess.onrender.com-111111?style=flat-square&logo=googlechrome&logoColor=white)](https://mohdcodess.onrender.com/)
-[![Email](https://img.shields.io/badge/Email-arbaazsid0786%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:arbaazsid0786@gmail.com)
+[![Email](https://img.shields.io/badge/Email-arbaazcode%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:arbaazsid0786@gmail.com)
 
 </div>
 
